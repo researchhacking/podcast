@@ -2,3 +2,12 @@ title: Researchhacking Podcast
 url: https://researchhacking.github.io/podcast/
 baseurl: /podcast
 theme: midnight
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "christian"
+plugins:
+  - jekyll-feed
