@@ -1,7 +1,6 @@
 title: Researchhacking Podcast
 url: https://researchhacking.github.io/podcast
 baseurl: /podcast
-remote_theme: pages-themes/midnight@v0.2.0
 defaults:
   - scope:
       path: ""
@@ -10,4 +9,3 @@ defaults:
       layout: "post"
       author: "christian"
 plugins:
-  - jekyll-remote-theme
