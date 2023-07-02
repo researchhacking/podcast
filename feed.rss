@@ -14,7 +14,7 @@
       <enclosure url="{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
       <guid isPermaLink="true">{{ site.url }}/{{ post.url }}</guid>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-      <description>{{ post.summary | xml_escape }} {{ post.description | xml_escape }} Show Notes Available at {{ site.url }}/{{ post.url }}.</description>
+      <description>{{ post.description | xml_escape }} Show Notes Available at {{ site.url }}/{{ post.url }}.</description>
     </item>
 {% endfor %}
   </channel>
