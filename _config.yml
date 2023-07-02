@@ -11,4 +11,3 @@ defaults:
       author: "christian"
 plugins:
   - jekyll-remote-theme
-  - jekyll-feed
