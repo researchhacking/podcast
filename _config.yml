@@ -7,5 +7,4 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "christian"
 plugins:
