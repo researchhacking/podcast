@@ -1,7 +1,7 @@
 ---
 title:  'Designing Freedom part 2: The Discarded Tools of Modern Man'
 date:   2024-04-07 10:13:00 +02
-file: https://archive.org/download/DesigningFreedom_CBC_Lectures/01%20The%20Real%20Threat%20to%20_All%20We%20Hold%20Most%20Dear_.mp3
+file: https://archive.org/download/DesigningFreedom_CBC_Lectures/02%20The%20Disregarded%20Tools%20of%20Modern%20Man.mp3
 layout: post
 ---
 
